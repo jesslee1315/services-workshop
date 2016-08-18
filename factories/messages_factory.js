@@ -1,4 +1,4 @@
-app.factory('MessagesService', function () {
+app.factory('MessagesService', function() {
   return {
     all: [
       {
